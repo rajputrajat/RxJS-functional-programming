@@ -1,0 +1,14 @@
+{
+    "name": "register-event-listner",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "rxjs": "7.1.0"
+    },
+    "scripts": {
+        "dev": "parcel index.html"
+    },
+    "devDependencies": {
+        "typescript": "^4.3.5"
+    }
+}
